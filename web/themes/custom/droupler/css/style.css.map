@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EACJ,OAAO,EAAE,KAAK;EACd,WAAM;IACJ,WAAW,EAAE,yCAAyC;EAExD,SAAE;IACA,WAAW,EAAE,8CAA8C;IAC3D,YAAE;MACA,UAAU,EAAE,MAAM;MAClB,cAAC;QACC,KAAK,EAAC,KAAK;QACX,eAAe,EAAE,IAAI;;ACX7B,YAAY;EACV,OAAO,EAAE,KAAK",
+"sources": ["../sass/pages/_header.scss","../sass/pages/_footer.scss"],
+"names": [],
+"file": "style.css"
+}
